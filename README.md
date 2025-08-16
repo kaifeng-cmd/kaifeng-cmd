@@ -2,17 +2,29 @@
 ## 💫 About Me
 🔭 Completed Data Science at UUM<br>🌎 I'm from Ipoh, Malaysia<br>🌱 I’m currently learning Vue.js, Node.js, LLM agents<br>💬 Ask me about something...<br>⚡ Explore my portfolio: https://dreamkfeng.wixsite.com/quantumnebuladrifter/portfolio<br>
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k_feng0108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kong-kai-feng-08a93530b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dreamkfeng@gmail.com) 
+
+<div align="center">
+
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JqbGYxZnQ1dGZvMWt0aHE3MHEwdjB2OWpmMWxyZWhmdDU1ZW82eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8Bfu9V4SceZZS/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3MWYzdmJjNWdjaDl4cHo0ZWxtdDl3aWpqbDN6djFnaWdrNWppZTQ5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RQNzDjwJSOble/giphy.gif" width="300" />
+
+</div>
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
 
 ## 📊 GitHub Stats
 <div align="center">
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaifeng-cmd&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=kaifeng-cmd&theme=dracula&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=kaifeng-cmd&theme=dracula&hide_border=true)<br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaifeng-cmd&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=kaifeng-cmd&theme=dracula&hide_border=true&include_all_commits=false&count_private=false" />
+  
+  <img src="https://nirzak-streak-stats.vercel.app/?user=kaifeng-cmd&theme=dracula&hide_border=true" />
+
 </div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
