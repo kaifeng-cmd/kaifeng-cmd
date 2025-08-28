@@ -2,7 +2,9 @@
 ## 💫 About Me
 🔭 Completed Data Science at UUM<br>🌎 I'm from Ipoh, Malaysia<br>🌱 I’m currently learning Vue.js, Node.js, LLM agents<br>💬 Ask me about something...<br>⚡ Explore my portfolio: https://dreamkfeng.wixsite.com/quantumnebuladrifter/portfolio<br>
 
-## 🌐 Socials
+![Profile Views](https://komarev.com/ghpvc/?username=kaifeng-cmd&label=Profile%20views&color=blueviolet&style=social)
+
+## 🌐 Socials 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/k_feng0108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kong-kai-feng-08a93530b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dreamkfeng@gmail.com) 
 
 <div align="center">
